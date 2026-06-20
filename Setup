@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>In Need of Emotions Behind Facts</title>
+
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background-color: #f7f3ee;
+      color: #222;
+      margin: 0;
+      line-height: 1.7;
+    }
+
+    header {
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 36px;
+    }
+
+    nav {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    nav a {
+      margin: 0 12px;
+      text-decoration: none;
+      color: #333;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 60px auto;
+      padding: 0 20px;
+    }
+
+    h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 8px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>In Need of Emotions Behind Facts</h1>
+  <p>A space between research, poetry, and lived experience.</p>
+</header>
+
+<nav>
+  <a href="#postpartum">Postpartum Poems</a>
+  <a href="#essays">Personal Essays</a>
+  <a href="#poems">Personal Poems</a>
+  <a href="#alive">Things That Make Me Feel Alive</a>
+  <a href="#political">Is Everything Political?</a>
+</nav>
+
+<section id="postpartum">
+  <h2>Poems from Interviews with Postpartum Mothers</h2>
+  <p>
+    Poems inspired by interviews with postpartum mothers.
+    These are emotional interpretations, not transcripts.
+  </p>
+</section>
+
+<section id="essays">
+  <h2>Personal Essays</h2>
+  <p>Essays on policy, identity, research, and life.</p>
+</section>
+
+<section id="poems">
+  <h2>Personal Poems</h2>
+  <p>Poems about emotion, memory, and reflection.</p>
+</section>
+
+<section id="alive">
+  <h2>Things That Make Me Feel Alive</h2>
+  <ul>
+    <li>Ocean air before sunrise</li>
+    <li>Finishing a paragraph that finally works</li>
+    <li>Unexpectedly honest conversations</li>
+    <li>New cities and quiet bookstores</li>
+    <li>Holding a newborn baby</li>
+  </ul>
+</section>
+
+<section id="political">
+  <h2>Is Everything Political?</h2>
+  <p>
+    Reflections on policy, power, gender, and everyday life.
+    Not everything is political—but much of life is shaped by it.
+  </p>
+</section>
+
+<footer>
+  <p>© In Need of Emotions Behind Facts</p>
+</footer>
+
+</body>
+</html>
+<img src="images/flower.jpg">
